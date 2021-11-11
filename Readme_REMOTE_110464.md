@@ -4,9 +4,5 @@
 + Commit D
 + Commit E
 + Commit F
-<<<<<<< HEAD
-+ Commit G
-=======
 + Commit G
 + Commit H
->>>>>>> new
